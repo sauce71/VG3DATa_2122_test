@@ -1,0 +1,1 @@
+Detter en info tekst fil som kommer til å si litt om prosjekter osm blir skrevet i denne folderen. pp
