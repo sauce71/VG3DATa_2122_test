@@ -5,3 +5,5 @@ linje 2
 
 vi får bare håpe at dette faktist funker
 nå hvor er jeg
+
+linje 8
