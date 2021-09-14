@@ -1,5 +1,6 @@
 hellu her er jeg
 lurer på hva som skjer
+linje 2
 
 
 vi får bare håpe at dette faktist funker
